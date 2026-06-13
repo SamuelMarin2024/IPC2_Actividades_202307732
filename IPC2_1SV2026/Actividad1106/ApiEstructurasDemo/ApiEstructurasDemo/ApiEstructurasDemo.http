@@ -1,6 +1,0 @@
-@ApiEstructurasDemo_HostAddress = http://localhost:5001
-
-GET {{ApiEstructurasDemo_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
