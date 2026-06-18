@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6A37E9-E024-42BA-87BE-1674C4A7A16F}|ControlAcademicoMvc\\ControlAcademicoMvc.csproj|c:\\users\\marhi\\documents\\ipc2_1sv2026\\actividad1706\\controlacademicomvc\\controlacademicomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6A37E9-E024-42BA-87BE-1674C4A7A16F}|ControlAcademicoMvc\\ControlAcademicoMvc.csproj|solutionrelative:controlacademicomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6A37E9-E024-42BA-87BE-1674C4A7A16F}|ControlAcademicoMvc\\ControlAcademicoMvc.csproj|c:\\users\\marhi\\documents\\ipc2_1sv2026\\actividad1706\\controlacademicomvc\\controlacademicomvc\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6A37E9-E024-42BA-87BE-1674C4A7A16F}|ControlAcademicoMvc\\ControlAcademicoMvc.csproj|solutionrelative:controlacademicomvc\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6A37E9-E024-42BA-87BE-1674C4A7A16F}|ControlAcademicoMvc\\ControlAcademicoMvc.csproj|c:\\users\\marhi\\documents\\ipc2_1sv2026\\actividad1706\\controlacademicomvc\\controlacademicomvc\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6A37E9-E024-42BA-87BE-1674C4A7A16F}|ControlAcademicoMvc\\ControlAcademicoMvc.csproj|solutionrelative:controlacademicomvc\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6A37E9-E024-42BA-87BE-1674C4A7A16F}|ControlAcademicoMvc\\ControlAcademicoMvc.csproj|c:\\users\\marhi\\documents\\ipc2_1sv2026\\actividad1706\\controlacademicomvc\\controlacademicomvc\\views\\estudiante\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA6A37E9-E024-42BA-87BE-1674C4A7A16F}|ControlAcademicoMvc\\ControlAcademicoMvc.csproj|solutionrelative:controlacademicomvc\\views\\estudiante\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\ControlAcademicoMvc\\Program.cs",
+              "RelativeDocumentMoniker": "ControlAcademicoMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\ControlAcademicoMvc\\Program.cs",
+              "RelativeToolTip": "ControlAcademicoMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T23:29:23.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\ControlAcademicoMvc\\Views\\Estudiante\\Listar.cshtml",
+              "RelativeDocumentMoniker": "ControlAcademicoMvc\\Views\\Estudiante\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\ControlAcademicoMvc\\Views\\Estudiante\\Listar.cshtml",
+              "RelativeToolTip": "ControlAcademicoMvc\\Views\\Estudiante\\Listar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T23:28:49.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\ControlAcademicoMvc\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "ControlAcademicoMvc\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\ControlAcademicoMvc\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "ControlAcademicoMvc\\Controllers\\EstudianteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T23:22:08.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\ControlAcademicoMvc\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ControlAcademicoMvc\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\MarHi\\Documents\\IPC2_1SV2026\\Actividad1706\\ControlAcademicoMvc\\ControlAcademicoMvc\\Models\\Estudiante.cs",
+              "RelativeToolTip": "ControlAcademicoMvc\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T23:20:11.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
